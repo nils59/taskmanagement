@@ -1,6 +1,7 @@
 # Uzdevumu Pārvaldnieks
 
-![screenshot](https://github.com/user-attachments/assets/63284bda-b1b9-4d97-8ae2-4ef0b0e0c0ab)
+![screenshot](https://github.com/user-attachments/assets/c36ea4a7-f840-4640-8701-d93535e06be6)
+
 
 Vienkārša uzdevumu pārvaldības programma, izveidota ar PySimpleGUI. Programma ļauj pievienot, dzēst un pārvaldīt uzdevumus ar datumu termiņiem.
 
