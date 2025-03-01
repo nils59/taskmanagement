@@ -65,4 +65,4 @@ Veiciet dubultklikšķi uz `taskmanagement.exe` un programma tiks palaista.
 
 
 ## Licence
-Šis projekts ir licencēts saskaņā ar [MIT Licensi](LICENSE).
+Šis projekts ir licencēts saskaņā ar [MIT Licenci](LICENSE).
