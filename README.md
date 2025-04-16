@@ -40,6 +40,20 @@ Projekts paredzēts lietotājiem, kuri vēlas vienkārši un pārskatāmi pārva
 - **Lietotājvārds:** `lietotajs`  
 - **Parole:** `parole123`
 
+## Kā lietot
+
+1.Palaid taskmanagement.exe
+
+2.Pieslēdzies ar lietotājvārdu/paroli
+
+3.Pievieno vai dzēs uzdevumus izmantojot GUI
+
+4.Skaties vēsturi izvēlnē “Vēsture”
+
+Piezīmes
+Visu uzdevumu informācija tiek saglabāta lokāli uzdevumi.db failā.
+
+Portable versija – nav nepieciešama instalācija (ja kompilēta ar PyInstaller).
 
 ## Izmantotās Tehnoloģijas
 - **Python 3.x** - Pamatprogrammēšanas valoda  
