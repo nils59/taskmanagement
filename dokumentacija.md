@@ -30,9 +30,6 @@ Skolēni, studenti un individuāli lietotāji, kas vēlas pārvaldīt savus darb
 - Datu drošība ar paroli
 - Lokāla lietošana bez interneta
 
-### Programmas skice
-![Programmas skice](screenshot.png) *(pievienojams ekrānattēls)*
-
 ---
 
 ## Programmatūras izstrādes plāns
