@@ -60,7 +60,7 @@ Skolēni, studenti un individuāli lietotāji, kas vēlas pārvaldīt savus darb
 
 ## Lietotāja ceļvedis
 
-1. **Palaid `taskmanagement.py`**
+1. **Palaid `taskmanagement.exe`**
 2. **Ievadi lietotājvārdu un paroli**
 3. **Pievieno uzdevumus**
 4. **Dzēs izvēlētos uzdevumus**
